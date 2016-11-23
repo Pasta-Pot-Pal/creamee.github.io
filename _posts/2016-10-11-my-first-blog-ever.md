@@ -1,5 +1,5 @@
 ---
-title: my first blog ever
+title: 60I8 puo>3s 6w p!p 678e80Jd ! 0.7734
 layout: post
 author: mikkel.hughes
 permalink: /my-first-blog-ever/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Qwert12345 -  </td>
+    <td>Gettin' my second blog done</td>
     <td>Date</td>
     <td>01/01/01</td>
   </tr>
@@ -18,17 +18,17 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
-    <td>Basic Github account. Edited Config.yml</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
-    <td>To have a Github Pages Static Website</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td></td>
+    <td>Yes i changed the background</td>
   </tr>
 </table>
 
@@ -38,22 +38,22 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <td> What strategies would be effective? </td>
   </tr>
   <tr>
-    <td></td>
+    <td>Listening to the teacher</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td></td>
+    <td>Not listening, daydreaming.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Trying to listen.</td>
   </tr>
 </table>
 
