@@ -10,8 +10,8 @@ published: true
   <tr>
     <td>Title</td>
     <td>Gettin' my second blog done</td>
-    <td>Date</td>
-    <td>01/01/01</td>
+    <td>    Date</td>
+    <td>23/11/2016</td>
   </tr>
 </table>
 
