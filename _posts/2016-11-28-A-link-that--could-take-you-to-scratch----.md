@@ -8,5 +8,5 @@ published: true
 ---
 Here is a link to a project me and my brother have made
 
-<a href="https://scratch.mit.edu/projects/90832978/#player">please play it</a>
+https://scratch.mit.edu/projects/90832978/#player
 
