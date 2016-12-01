@@ -53,7 +53,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Actually doing what the teacher says. I will improve my learning by not going on a separate route.</td>
+    <td>Actually doing what the teacher says. I will improve my learning by not being distracted by other routes before I’ve completed what needs to be done.</td>
   </tr>
 </table>
 
