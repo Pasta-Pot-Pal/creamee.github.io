@@ -1,5 +1,5 @@
 ---
-title: third blog done
+title: Third blog done and this one has a cat
 layout: post
 author: mikkel.hughes
 permalink: /third-blog-done/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Third blog done</td>
+    <td>Third blog done and this one has a cat</td>
     <td>    Date</td>
     <td>29/11/16</td>
   </tr>
