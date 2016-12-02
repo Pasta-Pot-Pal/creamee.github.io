@@ -120,6 +120,28 @@ img {
   color: yellow;
 }
 
+table {
+border-collapse: collapse;
+width: 100%;
+}
+
+table, th, td {
+border: 1px solid white;
+background-color:#984b43;
+
+}
+
+td {
+vertical-align: middle; 
+padding: 10px;
+}	
+
+th {
+color: white;
+background: #233237;
+height:50px;
+vertical-align: middle;
+}
 // Specify the color of the selection
 ::-moz-selection {
   color: green;
