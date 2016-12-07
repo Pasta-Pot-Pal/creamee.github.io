@@ -53,7 +53,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Doing code as quick as I can. By not doing extra's</td>
+    <td>Doing code as quick as I can. By not doing extra code.</td>
   </tr>
 </table>
 
