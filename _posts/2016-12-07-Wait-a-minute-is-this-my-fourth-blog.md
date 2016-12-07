@@ -41,19 +41,19 @@ published: true
     <td> What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Adding new sprites with new code</td>
+    <td>Adding new sprites with new code so new things would happen.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Trying to make a new sprite and making it from beginning to end </td>
+    <td>Trying to make a new sprite and making it from beginning to end. Going on a new route. </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Doing code as quick as I can</td>
+    <td>Doing code as quick as I can. By not doing extra's</td>
   </tr>
 </table>
 
