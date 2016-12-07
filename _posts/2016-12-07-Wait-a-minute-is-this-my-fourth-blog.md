@@ -23,12 +23,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this Lesson</td>
-    <td>Make it better</td>
+    <td>To improve it </td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes i did</td>
+    <td>Yes I did</td>
   </tr>
 </table>
 
@@ -41,19 +41,20 @@ published: true
     <td> What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Adding new sprites with new code so new things would happen.</td>
+    <td>Adding new sprites was effective because the new code allowed so many new options to happen.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Trying to make a new sprite and making it from beginning to end. Going on a new route. </td>
+    <td>Trying to make a new sprite was time consuming because I was making it from beginning to end .
+Being distracted by a new route is still a habit I find difficult to ignore.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Doing code as quick as I can. By not doing extra code.</td>
+    <td>Next time I will try organising the code as quick as I can. In addition I will improve my learning by not doing extra code unless I have time or I am asked to.</td>
   </tr>
 </table>
 
