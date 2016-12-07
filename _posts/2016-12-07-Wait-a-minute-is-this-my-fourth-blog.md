@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Wait a minute is this my fourth blog </td>
+    <td>Wait a minute... is this my fourth blog? </td>
     <td>    Date</td>
-    <td>29/11/16</td>
+    <td>7/12/16</td>
   </tr>
 </table>
 
@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting Point:</td>
-    <td>Maze game</td>
+    <td>My maze game</td>
   </tr>
   <tr>
     <td>Target for this Lesson</td>
