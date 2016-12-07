@@ -2,7 +2,7 @@
 title: Wait a minute is this my fourth blog
 layout: post
 author: mikkel.hughes
-permalink: /wait-a-minute-is-this-my-fourth-blog/
+permalink: /wait-a-minute-Is-this-my-fourth-blog/
 source-id: 10YR0vzkW2Wbt9NCfEsDe9nN3TnmqeRZCD2-1i9prX90
 published: true
 ---
