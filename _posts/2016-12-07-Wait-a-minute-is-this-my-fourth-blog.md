@@ -26,8 +26,7 @@ published: true
     <td>To improve it </td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <td>Did I reach my target? </td>
     <td>Yes I did</td>
   </tr>
 </table>
