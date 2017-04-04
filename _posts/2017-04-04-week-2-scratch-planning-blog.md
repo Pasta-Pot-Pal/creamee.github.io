@@ -40,13 +40,13 @@ published: true
     <td> What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Typing what sprites I made in my game.</td>
+    <td>Typing what sprites I made in my game where you make ice creams for characters, I came up with this game when I was eating ice cream.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I limited my learning by daydreaming (again!). I need to work on my habit of daydreaming a lot.</td>
+    <td>I limited my learning by daydreaming (again!) if I didn't do this I could've finished my game quicker and add in a shop. I need to work on my habit of daydreaming a lot.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
