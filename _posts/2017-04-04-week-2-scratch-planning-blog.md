@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Scratch planning blog (late)</td>
+    <td>Week 2 scratch planning blog (late)</td>
     <td>    Date</td>
-    <td>03/04/2017</td>
+    <td>04/04/2017</td>
   </tr>
 </table>
 
