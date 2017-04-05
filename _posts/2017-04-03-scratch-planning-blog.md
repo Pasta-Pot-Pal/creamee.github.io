@@ -40,19 +40,19 @@ published: true
     <td> What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Typing what I did in my game.</td>
+    <td>Typing what I did in my game, which at first I didn't know what to do because there were so many possibilities.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Not typing what I had to in my planning document (I've done it now!). And being too lazy to even type it.</td>
+    <td>Not typing what I had to in my planning document (I’ve done it now!). And being too lazy to even type it.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time I will type the parts that I don’t want to type (and the parts that I do want to type!). I will improve by reminding myself to type everything the teacher wants me to type.</td>
+    <td>Next time I will type the parts that I don’t want to type (and the parts that I do want to type!). I will improve by reminding myself to do everything the teacher wants me to do.</td>
   </tr>
 </table>
 
