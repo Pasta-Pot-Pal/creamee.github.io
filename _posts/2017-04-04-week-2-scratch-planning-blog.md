@@ -40,7 +40,7 @@ published: true
     <td> What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Typing what sprites I made in my game where you make ice creams for characters, I came up with this game when I was eating ice cream was really effective. Also using the smallest pixels on scratch to make the sprites was quite effective. I planned to make the characters on scratch myself so I could change them to my liking.</td>
+    <td>Typing what sprites I made in my game where you make ice creams for characters, I came up with this game when I was eating ice cream was really effective. Also using the smallest pixels on scratch to make the sprites was quite effective because you can add in lots of detail. I planned to make the characters on scratch myself so I could change them to my liking.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
