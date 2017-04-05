@@ -1,5 +1,5 @@
 ---
-title: week 2 scratch planning blog
+title: week 2 scratch designing blog
 layout: post
 author: mikkel.hughes
 permalink: /week-2-scratch-planning-blog/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Week 2 scratch planning blog (late)</td>
+    <td>Week 2 scratch designing blog (late)</td>
     <td>    Date</td>
     <td>04/04/2017</td>
   </tr>
