@@ -1,5 +1,5 @@
 ---
-title: week 3 scratch buiding blog part 3
+title: week 3 scratch buiding blog part 3 of 3
 layout: post
 author: mikkel.hughes
 permalink: /week-3-scratch-buiding-blog-part-3/
