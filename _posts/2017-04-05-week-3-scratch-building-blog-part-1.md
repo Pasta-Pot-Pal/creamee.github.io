@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Week 3 scratch building blog [part 1 (late)]</td>
+    <td>Week 3 scratch building blog [part 1 of 3(late)]</td>
     <td>    Date</td>
     <td>05/04/2017</td>
   </tr>
