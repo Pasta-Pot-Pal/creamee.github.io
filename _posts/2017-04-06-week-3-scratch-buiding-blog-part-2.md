@@ -1,5 +1,5 @@
 ---
-title: week 3 scratch buiding blog part 2
+title: week 3 scratch buiding blog part 2 of 3
 layout: post
 author: mikkel.hughes
 permalink: /week-3-scratch-buiding-blog-part-2/
@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Week 3 scratch building blog [part 2 (late)]</td>
     <td>    Date</td>
-    <td>05/04/2017</td>
+    <td>06/04/2017</td>
   </tr>
 </table>
 
