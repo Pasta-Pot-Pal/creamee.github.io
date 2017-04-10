@@ -40,13 +40,13 @@ published: true
     <td> What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Looking at my screen very carefully to make the drink god look great was a really good strategy. This was done really fast so I could make the snack king able to dispense different popcorn flavours. </td>
+    <td>Looking at my screen very carefully to make the Drink God look great was a really good strategy because of that it would not look boring. This was done really carefully so I could make the Snack King able to dispense different popcorn flavours without any worries because sometimes I worry about designs in my games. </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Not much really, as I only looked around the room a few times at other people's screens for a few seconds and I didn’t daydream. So there aren’t much habits to work on. </td>
+    <td>Not much really, as I only looked around the room a few times at other people's screens for a few seconds and I didn’t daydream. So there weren’t many habits to work on, this week. </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
