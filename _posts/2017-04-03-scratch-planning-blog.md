@@ -1,5 +1,5 @@
 ---
-title: scratch planning blog
+title: week 1 scratch planning blog
 layout: post
 author: mikkel.hughes
 permalink: /scratch-planning-blog/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Scratch planning blog (late)</td>
+    <td>Week 1 scratch planning blog (late)</td>
     <td>    Date</td>
     <td>03/04/2017</td>
   </tr>
@@ -40,7 +40,7 @@ published: true
     <td> What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Typing what I did in my game, which at first I didn't know what to do because there were so many possibilities.</td>
+    <td>It helped to type what I did in my game, which at first I didn't know what to do because there were so many possibilities. So really, laying it all out made it a whole lot clearer.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
