@@ -40,13 +40,13 @@ published: true
     <td> What strategies were effective?</td>
   </tr>
   <tr>
-    <td>Thinking about what is good in my game and also what I could improve in my game.</td>
+    <td>Thinking about what is good in my game and also what I could improve in my game.I really liked the way the whole thing worked especially the Drink God the way the drinks inside it moved. If I could I would make the toppings and a shop. Listening to what the people who tested thought, I found it fair that not many people knew what to do because someone decided to go inside the game not the project page which is where the instructions are. I can't think of how to do this without putting an instructions page in the game which I don’t think would fit and I don’t want one.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on?</td>
   </tr>
   <tr>
-    <td>Well, I looked at other people's screens (again!) and waiting for someone to finish a game so I could go on it when there are other games that were free. I might need to work on that habit a bit.</td>
+    <td>Well, I looked at other people’s screens (again!) and waiting for someone to finish a game so I could go on it when there are other games that were free. I might need to work on that habit a bit.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
