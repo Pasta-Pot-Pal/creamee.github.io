@@ -40,7 +40,7 @@ published: true
     <td> What strategies were effective?</td>
   </tr>
   <tr>
-    <td>Looking back at my game for things that I had to mark to give scores. My final score was 22!</td>
+    <td>Looking back at my game for things that I had to mark to give scores. My final score was 22! Overall I felt that this project was really good and it can teach people how to code I really hope that I get to do this again in the years to come because it was fun. My favourite part was testing out other people's games because you never know if you could find a game that you really like. My favourite part of my game was the oven timer sprite because it has about 60 costumes that were fun to make.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on?</td>
@@ -52,7 +52,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time I won't look over my shoulder to see what other people are doing or then I will get distracted. I will improve my learning by not doing what other people are doing I will only do what I am supposed to do. </td>
+    <td>Next time I won’t look over my shoulder to see what other people are doing or then I will get distracted. I will improve my learning by not doing what other people are doing I will only do what I am supposed to do. </td>
   </tr>
 </table>
 
