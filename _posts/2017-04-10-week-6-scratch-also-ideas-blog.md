@@ -40,7 +40,7 @@ published: true
     <td> What strategies were effective?</td>
   </tr>
   <tr>
-    <td>Testing each section for glitches and bugs to remove.</td>
+    <td>Testing each section for glitches and bugs to remove, was effective because it could show me what places I could look at to get new ideas.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on?</td>
@@ -52,7 +52,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time I will stay looking at my screen and not waste any time on anything but glitches and bugs. My learning will be improved because I will keep on searching for glitches and bugs until there are none on my scratch project (or until I get bored!).</td>
+    <td>Next time I will stay looking at my screen and not waste any time on anything but glitches and bugs. My learning will be improved because I will keep on searching for glitches and bugs until there are no more of them on my scratch project.</td>
   </tr>
 </table>
 
