@@ -40,13 +40,13 @@ published: true
     <td> What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Typing what sprites I made in my game where you make ice creams for characters, I came up with this game when I was eating ice cream was really effective. Also using the smallest pixels on scratch to make the sprites was quite effective because you can add in lots of detail. I planned to make the characters on scratch myself so I could change them to my liking.</td>
+    <td>I came up with this game when I was eating ice cream and I suddenly knew that I had to make an ice cream parlour. Typing what sprites i wanted in my game where you make ice creams for characters, was really effective. Also using the smallest pixels on scratch to make the sprites was quite effective because you can add in lots of detail. I planned to make the characters on scratch myself so I could change them to my liking.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I limited my learning by daydreaming (again!) if I didn't do this I could've finished my game quicker and add in a shop even though it took ages to make the sprites. I need to work on my habit of daydreaming a lot.</td>
+    <td>I limited my learning by daydreaming (again!) if I didn't do this I could've finished my game quicker and added in a shop even though it took ages to make the sprites. I need to work on my habit of daydreaming a lot.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
