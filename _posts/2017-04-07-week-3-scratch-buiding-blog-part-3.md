@@ -40,20 +40,20 @@ published: true
     <td> What strategies were effective?</td>
   </tr>
   <tr>
-    <td>Well, I knew that I absolutely had to finish my game, although I was unwell and didn't finish it, I had a week and a few days (I think) to finish it. So, I immediately got down to work to finish my game (even though I started on a different game which was an anti-gravity platformer instead of my ice cream game for a few minutes) and then it was finished.</td>
+    <td>Well, I knew that I absolutely had to complete my game. Although I was unwell and didn't complete it in class, I had a week and a few days to finish it to a playable standard over half term. So, I immediately got down to work to finish my game (even though I was tempted to start on a different game which was an anti-gravity platformer instead of my ice cream game for a few minutes.) I wanted to include toppings but I realized that it was too hard so I left that feature for another day and then  after some concentrated days it was finished.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on?</td>
   </tr>
   <tr>
-    <td>That week nothing stopped me from finishing my game I was doing it until it was done (or if it was lunch!). So there aren’t much habits that I need to work on.</td>
+    <td>Nothing stopped me from finishing my game. I was doing it until it was done (or if it was lunch!). There weren’t many habits that I needed to work on.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
     <td>Next time I will:
-Try not to be unwell [I was not sick (for extra information ask me what happened)] on a school day. 
+Try not to be unwell 
 Code my game to have extra levels.
 And not stop coding even if it’s lunch (um… I might not stick to that).
 
