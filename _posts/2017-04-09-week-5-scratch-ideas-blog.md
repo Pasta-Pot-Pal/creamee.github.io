@@ -40,19 +40,19 @@ published: true
     <td> What strategies were effective?</td>
   </tr>
   <tr>
-    <td>Well actually, daydreaming helped a lot because I could think of new ideas for my game and create those ideas as soon as possible. For example: (marsh) mellow corn. </td>
+    <td>Well actually, for once daydreaming helped a lot because I could think of new ideas for my game and create those ideas as soon as possible. For example: (marsh) mellow corn. </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on?</td>
   </tr>
   <tr>
-    <td>As daydreaming helped, it limited my learning because I could be daydreaming about my game and then I could be daydreaming about a different thing. So I don't really need to work on any habit.</td>
+    <td>As in this case daydreaming helped, it only limited my learning because I could be daydreaming about my game and then I could be daydreaming about a different thing. So now  I need to focus my daydreaming habit.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time I will only daydream about what I need to and I will immediately stop daydreaming, and make what I just daydreamed about. I will improve my learning by not doing any of the habits that I need to work on when I don’t need to.
+    <td>Next time I will only daydream about what I need to and I will immediately stop daydreaming, and make what I just daydreamed about. I will improve my learning by not doing any of the habits that I need to work on when I don't need to.
 </td>
   </tr>
 </table>
