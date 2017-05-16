@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>someone, isn't going to build a waterslide that only you will use that leads to your home from where you work. no one will. it's not going to happen. Even if you have a barclaycard honest.</td>
+    <td>someone, isn't going to build a waterslide that only you will use that leads to your home from where you work. no one will. it's not going to happen. Even if you have a barclaycard. honest.</td>
     <td>    Date</td>
     <td>16/05/2017</td>
   </tr>
